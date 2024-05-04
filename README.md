@@ -29,8 +29,18 @@
     <p class="author">—Мухаммед Аззахири Ас-Самарканди</p>
 </div>
 
- 
-
+ <div class="quote">
+    <p>«Меня часто спрашивают: "С чего ты начинал?" С воли к жизни. Жить я хотел, а не прозябать.»</p>
+    <p class="author">—Олег Тиньков</p>
+</div>
+<div class="quote">
+    <p>«Без Украины нет России. »</p>
+    <p class="author">—Лев Троцкий</p>
+</div>
+<div class="quote">
+    <p>«»</p>
+    <p class="author">—</p>
+</div>
 
 </body>
 </html>
